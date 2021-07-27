@@ -1,0 +1,16 @@
+body{
+    background-color: #b3cccc;
+    text-align: center;
+}
+.gif{
+    height: 200px;
+}
+
+#errorMessage {
+    color: red;
+    padding: 10px;
+}
+
+#logo{
+    padding: 10px;
+}
